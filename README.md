@@ -2,6 +2,10 @@
 
 > Claude Code Skill for Anti-Reseller Protection in Open Source Software
 
+[English](./README.md) | [中文](./README-zh.md)
+
+---
+
 ## Overview
 
 This is a Claude Code skill that helps developers implement protection mechanisms for open source software against unauthorized resale. It provides patterns and strategies to **couple copyright notices with core functionality**, making removal impossible without breaking the program.

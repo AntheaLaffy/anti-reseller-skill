@@ -2,6 +2,10 @@
 
 > 开源软件防倒卖保护的 Claude Code Skill
 
+[English](./README.md) | [中文](./README-zh.md)
+
+---
+
 ## 概述
 
 这是一个 Claude Code skill，帮助开发者实现开源软件的反倒卖保护机制。提供将**版权声明与核心功能耦合**的模式和策略，使移除版权声明会导致程序崩溃。
